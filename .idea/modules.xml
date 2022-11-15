@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day06/com.atguigu.exer/com.atguigu.exer.iml" filepath="$PROJECT_DIR$/day06/com.atguigu.exer/com.atguigu.exer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/com.atguigu.java/com.atguigu.java.iml" filepath="$PROJECT_DIR$/day06/com.atguigu.java/com.atguigu.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/day06.iml" filepath="$PROJECT_DIR$/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ideapro_ws.iml" filepath="$PROJECT_DIR$/.idea/ideapro_ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
