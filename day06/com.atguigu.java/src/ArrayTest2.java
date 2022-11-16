@@ -18,6 +18,8 @@ public class ArrayTest2 {
         //静态初始化
         int[][] arr1 = new int[][] {{1,2,3},{1,2,3},{1,2,3}};
         //动态初始化
+        //sleep(500);
+
         String[][] arr3 = new String[2][3];
 
         String[][] arr4 = new String[2][];
