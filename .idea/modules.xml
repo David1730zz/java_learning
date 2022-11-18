@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day06/com.atguigu.exer/com.atguigu.exer.iml" filepath="$PROJECT_DIR$/day06/com.atguigu.exer/com.atguigu.exer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/com.atguigu.exer1/com.atguigu.exer1.iml" filepath="$PROJECT_DIR$/day06/com.atguigu.exer1/com.atguigu.exer1.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06/com.atguigu.java/com.atguigu.java.iml" filepath="$PROJECT_DIR$/day06/com.atguigu.java/com.atguigu.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06/day06.iml" filepath="$PROJECT_DIR$/day06/day06.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ideapro_ws.iml" filepath="$PROJECT_DIR$/.idea/ideapro_ws.iml" />
