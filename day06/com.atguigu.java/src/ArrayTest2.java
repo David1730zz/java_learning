@@ -18,12 +18,9 @@ public class ArrayTest2 {
         //静态初始化
         int[][] arr4 = new int[][]{{1,2,3},{1,2},{2,3,4}};
         //动态初始化
-        //sleep(500);
-
         String[][] arr3 = new String[2][3];
-
         String[][] arr5 = new String[2][];
-        int[] arrfake = {1,2,3};
+        //int[] arrfake = {1,2,3};
         //获取二维数组长度
         System.out.println(arr4[2][1]);
         System.out.println(arr3[0][1]);

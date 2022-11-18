@@ -56,13 +56,13 @@ public class ArrayTest4 {
                flag1 = false;
                break;
            }else if(arr2[middle] > aim1){     //如果数组中间项的值大于目标值，则说明目标值在数组的左边，即middle - 1
-               end = middle - 1;
+               end = middle - 1;   //搜索索引值的末尾 -1
            }else{            //如果数组中间项的值小于目标值，则说明目标值在数组的右边，即middle + 1
-               head = middle + 1;
+               head = middle + 1;     //  搜索索引值的初始值 + 1
            }
        }
 
-       if(flag1 == true){
+       if(flag1){
            System.out.println("没有找到目标！");
        }
 
