@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.atguigu.exer/com.atguigu.exer.iml" filepath="$PROJECT_DIR$/com.atguigu.exer/com.atguigu.exer.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.java/com.atguigu.java.iml" filepath="$PROJECT_DIR$/com.atguigu.java/com.atguigu.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08.iml" filepath="$PROJECT_DIR$/day08.iml" />
     </modules>
