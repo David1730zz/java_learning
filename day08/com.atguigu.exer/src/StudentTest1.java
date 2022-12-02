@@ -1,6 +1,8 @@
 /**
  * @描述：此代码是对StudentTest的方法封装优化
  * @author:zdw
+ * 对象new是类class的实例化，通过对象去操作、使用 类中包含的方法,对象更像一个工具
+ * 用stus对象去进行赋值、遍历等操作，只不过stus是Student1的数组对象
  */
 public class StudentTest1 {
     public static void main(String[] args) {
@@ -20,6 +22,7 @@ public class StudentTest1 {
         test.Print(stus);
         test.SearchState(stus,3);
         test.Result(stus);
+        /*****************************************************************/
 
 
     }
