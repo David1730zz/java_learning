@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a45dfd0a-0a12-45b3-ba20-07b43a5ee9ac" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/../day08/com.atguigu.exer2/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day08/com.atguigu.exer2/src/PassObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day08/com.atguigu.java1/src/RecursionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day08/com.atguigu.java1/src/maimai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day08/com.atguigu.java1/src/ValueTrans2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day08/com.atguigu.java1/src/ValueTrans2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day08/out/production/com.atguigu.exer2/Max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day08/out/production/com.atguigu.exer2/OverLoadExer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day08/out/production/com.atguigu.java1/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnimalTest.java" afterDir="false" />
+    <list default="true" id="a45dfd0a-0a12-45b3-ba20-07b43a5ee9ac" name="变更" comment="2023/1/10">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer1/TriAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer1/TriAngleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/PersonConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/gouzaoqi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day10/ValueTransferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnimalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValueTransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/java/ValueTransferTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +42,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K7JYFw72OnQrWQFBI65kDCPMhu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,12 +54,71 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/ideapro_ws/day10"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.java1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.UserTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.AnimalTest" />
+      <module name="day10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.AnimalTest" />
+      <module name="day10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.exer.PersonTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriAngleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.exer1.TriAngleTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.exer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java1.UserTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValueTransferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValueTransferTest" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.ValueTransferTest" />
       <module name="day10" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,6 +126,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.UserTest" />
+        <item itemvalue="应用程序.TriAngleTest" />
+        <item itemvalue="应用程序.PersonTest" />
+        <item itemvalue="应用程序.AnimalTest" />
         <item itemvalue="应用程序.ValueTransferTest" />
       </list>
     </recent_temporary>
@@ -70,8 +142,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673319736055</updated>
-      <workItem from="1673319737255" duration="1445000" />
+      <workItem from="1673319737255" duration="6958000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/1/10">
+      <created>1673335895167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673335895168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +167,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023/1/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/1/10" />
   </component>
 </project>
