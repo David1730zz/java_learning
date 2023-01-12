@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a45dfd0a-0a12-45b3-ba20-07b43a5ee9ac" name="变更" comment="2023/1/10">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer1/TriAngle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer1/TriAngleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/PersonConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java1/gouzaoqi.java" afterDir="false" />
+    <list default="true" id="a45dfd0a-0a12-45b3-ba20-07b43a5ee9ac" name="变更" comment="2023/1/11">
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer2/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer2/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java2/PersonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day10/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day10/ValueTransferTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnimalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValueTransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/java/ValueTransferTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ideapro_ws/day10"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ideapro_ws/day10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.atguigu.java1" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.UserTest">
+  <component name="RunManager" selected="应用程序.AnimalTest">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.java.AnimalTest" />
       <module name="day10" />
@@ -143,6 +130,12 @@
       <option name="presentableId" value="Default" />
       <updated>1673319736055</updated>
       <workItem from="1673319737255" duration="6958000" />
+      <workItem from="1673420870353" duration="765000" />
+      <workItem from="1673421655741" duration="318000" />
+      <workItem from="1673421984905" duration="4489000" />
+      <workItem from="1673485561764" duration="5148000" />
+      <workItem from="1673491088595" duration="370000" />
+      <workItem from="1673491470254" duration="149000" />
     </task>
     <task id="LOCAL-00001" summary="2023/1/10">
       <created>1673335895167</created>
@@ -151,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673335895168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023/1/11">
+      <created>1673419417081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673419417081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +170,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023/1/10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/1/10" />
+    <MESSAGE value="2023/1/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/1/11" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
