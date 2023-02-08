@@ -1,6 +1,9 @@
 package com.atguigu.exer2;
 
 public class Boy {
+    public static void main(String[] args) {
+        
+    }
     private String name;
     private int age;
     //构造器***********************************

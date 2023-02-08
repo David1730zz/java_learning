@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45dfd0a-0a12-45b3-ba20-07b43a5ee9ac" name="变更" comment="2023/1/11">
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer2/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer2/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java2/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer2/BoyGirlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer3/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer4/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer4/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer4/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer4/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java2/PackImportTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day10/com/atguigu/exer2/Boy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day10/com/atguigu/exer2/Boy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day10/com/atguigu/exer2/Girl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day10/com/atguigu/exer2/Girl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/exer2/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/exer2/Boy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/exer2/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/exer2/Girl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +52,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/ideapro_ws/day10&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -50,27 +60,13 @@
       <recent name="com.atguigu.java1" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.AnimalTest">
-    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.AnimalTest" />
-      <module name="day10" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.AnimalTest" />
-      <module name="day10" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.exer.PersonTest" />
+  <component name="RunManager" selected="应用程序.PackImportTest">
+    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.exer4.BankTest" />
       <module name="day10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.exer.*" />
+          <option name="PATTERN" value="com.atguigu.exer4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriAngleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.exer1.TriAngleTest" />
+    <configuration name="Boy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.exer2.Boy" />
       <module name="day10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.exer1.*" />
+          <option name="PATTERN" value="com.atguigu.exer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoyGirlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.exer2.BoyGirlTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.exer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackImportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.PackImportTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,20 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueTransferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.ValueTransferTest" />
-      <module name="day10" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PackImportTest" />
+        <item itemvalue="应用程序.BankTest" />
+        <item itemvalue="应用程序.BoyGirlTest" />
+        <item itemvalue="应用程序.Boy" />
         <item itemvalue="应用程序.UserTest" />
-        <item itemvalue="应用程序.TriAngleTest" />
-        <item itemvalue="应用程序.PersonTest" />
-        <item itemvalue="应用程序.AnimalTest" />
-        <item itemvalue="应用程序.ValueTransferTest" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +151,8 @@
       <workItem from="1673485561764" duration="5148000" />
       <workItem from="1673491088595" duration="370000" />
       <workItem from="1673491470254" duration="149000" />
+      <workItem from="1673492082297" duration="22647000" />
+      <workItem from="1674875293062" duration="10768000" />
     </task>
     <task id="LOCAL-00001" summary="2023/1/10">
       <created>1673335895167</created>
